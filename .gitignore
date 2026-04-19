@@ -30,6 +30,9 @@ venv/
 .idea/
 .vscode/
 
+# Not versioned (local / alternate workflows)
+dayone-send/
+
 # Local slide sources (not versioned)
 markdown2slides/*.pptx
 
