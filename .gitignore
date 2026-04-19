@@ -33,3 +33,8 @@ venv/
 # Local slide sources (not versioned)
 markdown2slides/*.pptx
 
+# Generated / scratch under markdown2slides (not versioned)
+markdown2slides/0-test-*.html
+markdown2slides/dayone_*.moodle.html
+markdown2slides/_agent_update_*.md
+
