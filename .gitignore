@@ -30,3 +30,6 @@ venv/
 .idea/
 .vscode/
 
+# Local slide sources (not versioned)
+markdown2slides/*.pptx
+
