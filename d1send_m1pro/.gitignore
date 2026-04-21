@@ -1,0 +1,21 @@
+.DS_Store
+
+# Secrets / machine-local config
+credentials.json
+token.json
+dayone_config.json
+
+# Local scratch / old prototypes
+dayone_msg*.py
+
+# Generated / local artifacts (keep folders via .gitkeep)
+sent/*
+outbox/*
+image-cache/*
+attachs/*
+
+!sent/.gitkeep
+!outbox/.gitkeep
+!image-cache/.gitkeep
+!attachs/.gitkeep
+
